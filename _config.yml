@@ -1,13 +1,11 @@
-title: Your awesome title
+title: Code with Max awesome blog
 
 author:
   name: Max Parkhomenko
   email: "trashjustatrash@gmail.com"
 
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Текстовые дополнения, короткие how-to, небольште памятки, созданные в дополнение к видео на моем YouTube канале.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
