@@ -4,4 +4,4 @@
 
 
 [blog-main-page]:   (https://trash-max.github.io/blog/)
-[youtube-channel]:  ()
+[youtube-channel]:  (https://www.youtube.com/c/MaxTrash)
