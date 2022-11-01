@@ -13,6 +13,12 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
+  skin: dark
+
+author:
+  name: Max Parkhomenko
+  email: "trashjustatrash@gmail.com"
+
 
   # generate social links in footer
   social_links:
@@ -20,13 +26,13 @@ minima:
     github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
+    facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
     # googleplus: +jekyll
@@ -50,8 +56,8 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - about.md
 
 # Build settings
 theme: minima
