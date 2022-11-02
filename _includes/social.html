@@ -1,5 +1,7 @@
 {%- assign social = site.minima.social_links -%}
 
+<p>Найти меня можно здась:</p>
+
 <ul class="social-media-list">
   {%- for glb in social.gitlab -%}{%- if glb.username and glb.instance -%}<li><a rel="me" href="https://{{ glb.instance | cgi_escape | escape}}/{{glb.username}}" target="_blank" title="{{ glb.username | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#gitlab' | relative_url }}"></use></svg></a></li>{%- endif -%}{%- endfor -%}
   {%- if social.youtube -%}<li><a rel="me" href="https://www.youtube.com/{{ social.youtube | cgi_escape | escape }}" target="_blank" title="{{ social.youtube | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg></a></li>{%- endif -%}
