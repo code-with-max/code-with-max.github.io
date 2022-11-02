@@ -1,6 +1,8 @@
 {%- assign social = site.minima.social_links -%}
 
-<p> align="center">Найти меня можно здась:</p>
+<<div style="text-align:left;">
+  Найти меня можно здесь:
+</div>
 
 <ul class="social-media-list">
   {%- for glb in social.gitlab -%}{%- if glb.username and glb.instance -%}<li><a rel="me" href="https://{{ glb.instance | cgi_escape | escape}}/{{glb.username}}" target="_blank" title="{{ glb.username | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#gitlab' | relative_url }}"></use></svg></a></li>{%- endif -%}{%- endfor -%}
