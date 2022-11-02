@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "xClip. Копируем чувствительные данные из файла сразу в буфер обмена"
-categories: misc
+layout:     post
+title:      "xClip. Копируем чувствительные данные из файла сразу в буфер обмена"
+categories: [Linux, CLI]
+tag:        [linux, cli, xclip]
 ---
 
 

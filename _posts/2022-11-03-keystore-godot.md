@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Java keystore. Создание защищенного хранилища и пары ключей для подписи Android приложений в Godot"
-categories: misc
+categories: [GameDev, Godot]
+tag:        [gamedev, godot, keystore, android]
 ---
 
 # Java keystore
