@@ -93,6 +93,3 @@ alias pbpaste='xclip -sel clip -o'
 
 
 Псевдонимы pbcopy и pbpaste использованы пол аналогии с системой macosx. Использовать можно любые названия по желанию.
-
-
-{% include share-buttons.html %}
