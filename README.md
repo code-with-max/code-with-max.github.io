@@ -1,7 +1,6 @@
-Персональный блог, как приложение к [YouTube][youtube-channel] каналу.
+Персональный блог, как приложение к YouTube каналу.
 
-[Читать][blog-main-page]
+[Читать](https://trash-max.github.io/blog/)
+[Смотреть](https://www.youtube.com/c/MaxTrash)
 
-
-[blog-main-page]:   (https://trash-max.github.io/blog/)
-[youtube-channel]:  (https://www.youtube.com/c/MaxTrash)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCSFR40osj7pJXouSiJDFXZA)
