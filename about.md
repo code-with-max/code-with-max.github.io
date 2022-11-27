@@ -5,6 +5,19 @@ permalink: /about/
 ---
 
 
-Текстовые дополнения, короткие how-to, небольште памятки, созданные в дополнение к видео на моем [YouTube](https://www.youtube.com/c/MaxTrash) канале.
+Персональный блог, как приложение к YouTube каналу.
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCSFR40osj7pJXouSiJDFXZA)
+[Смотреть](https://www.youtube.com/c/MaxTrash)
+[Поддержать](https://www.buymeacoffee.com/maxtrash)
+
+<a href="https://www.youtube.com/c/MaxTrash" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCSFR40osj7pJXouSiJDFXZA" alt="YouTube channel" height="32" width="136"></a>
+
+
+
+
+Поддержать можно здесь:
+
+<a href="https://www.buymeacoffee.com/maxtrash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="32" width="136"></a>
+
+
+<a href="https://www.buymeacoffee.com/maxtrash" target="_blank"><img src="https://github.com/trash-max/trash-max.github.io/blob/master/assets/bmc_qr.png" alt="Buy Me A Coffee" height="136" width="136"></a>
