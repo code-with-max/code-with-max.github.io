@@ -40,7 +40,8 @@ minima:
     #
     # Telegram
     telegram: Max_Trash
-    - platform: telegram-channel  # same as SVG filename.
+    #
+    - platform: telegram_channel  # same as SVG filename.
       user_url: "https://t.me/code_with_max"  # URL of profile page.
       title:  Telegram channel link # Optional. Text displayed on hovering over link.
     #
