@@ -33,12 +33,17 @@ minima:
     # youtube: jekyll
     youtube_channel: UCSFR40osj7pJXouSiJDFXZA
     # youtube_channel_name: CloudCannon
-    telegram: Max_Trash
     # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
     # google_scholar_id: qc6CJjYAAAAJ
-
+    #
+    # Telegram
+    telegram: Max_Trash
+    - platform: telegram-channel  # same as SVG filename.
+      user_url: "https://t.me/code_with_max"  # URL of profile page.
+      title:  Telegram channel link # Optional. Text displayed on hovering over link.
+    #
     # Mastodon instances
     # mastodon:
     # - username: jekyll
