@@ -16,6 +16,8 @@ tag:        [linux, server, flask, nginx, gunicorn, python]
 Поднимаем свой сервер со своим доменом в интернете на Ubuntu Linux,  настраиваем  стек Nginx + Gunicorn + Flask, защищаем все соединения при  помощи  SSL.
 
 
+[Смотреть на YouTube](https://youtu.be/uiogiEIk49s)
+
 
 #### Дисклеймер (Disclaimer)
 
