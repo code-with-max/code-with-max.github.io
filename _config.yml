@@ -38,9 +38,9 @@ minima:
     # microdotblog: jekyll
     # keybase: jekyll
     # google_scholar_id: qc6CJjYAAAAJ
-    - platform: bmc  # same as SVG filename.
-      user_url: "https://www.buymeacoffee.com/maxtrash"  # URL of profile page.
-      title:  Donate me  # Optional. Text displayed on hovering over link.
+    #- platform: bmc  # same as SVG filename.
+    #  user_url: "https://www.buymeacoffee.com/maxtrash"  # URL of profile page.
+    #  title:  Donate me  # Optional. Text displayed on hovering over link.
     #
     # Mastodon instances
     # mastodon:
