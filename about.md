@@ -12,6 +12,10 @@ permalink: /about/
 
 <a href="https://www.youtube.com/c/MaxTrash" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCSFR40osj7pJXouSiJDFXZA" alt="YouTube channel" height="32" width="136"></a>
 
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UCSFR40osj7pJXouSiJDFXZA" data-layout="full" data-count="hidden"></div>
+
 
 
 
