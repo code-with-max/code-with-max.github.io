@@ -5,11 +5,12 @@ permalink: /about/
 ---
 
 
-Персональный блог, как приложение к YouTube каналу.
+Кратко: Персональный блог, как приложение к YouTube каналу.
 
-[Смотреть](https://www.youtube.com/c/MaxTrash) [Поддержать](https://www.buymeacoffee.com/maxtrash) [Поддержать](https://www.buymeacoffee.com/maxtrash)
+[Смотреть](https://www.youtube.com/c/MaxTrash) [Читать]({{site.baseurl}})
+[Поддержать](https://www.buymeacoffee.com/maxtrash) [Поддержать из России](https://pay.cloudtips.ru/p/5acab2cd)
 
-Все ссылки на мои соцсети внизу страницы
+Ссылки на все мои соцсети внизу страницы.
 
 
 <script src="https://apis.google.com/js/platform.js"></script>
