@@ -5,8 +5,8 @@ author:
   email: "trashjustatrash@gmail.com"
 
 description: > # this means to ignore newlines until "show_excerpts:"
-  Текстовые дополнения, короткие how-to, небольште памятки, созданные в дополнение к видео на моем YouTube канале.
-  
+  Текстовые дополнения, короткие how-to, небольшие памятки, созданные в дополнение к видео на моем YouTube канале.
+
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Google Analytics
