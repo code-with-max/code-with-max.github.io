@@ -32,9 +32,8 @@ layout: default
 
   <!-- Custom includes -->
   <div>
-    {%- include github-buttons.html -%}
-    {%- include donate-buttons.html -%}
-    <!-- {%- include share-buttons.html -%} -->
+    {% include github-buttons.html %}
+    {% include donate-buttons.html %}
   </div>
   
   {%- if site.disqus.shortname -%}
