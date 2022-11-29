@@ -13,7 +13,6 @@ permalink: /about/
 Ссылки на все мои соцсети внизу страницы.
 
 
-<script src="https://apis.google.com/js/platform.js"></script>
 
 <div class="g-ytsubscribe" data-channelid="UCSFR40osj7pJXouSiJDFXZA" data-layout="full" data-count="hidden" width="256"></div>
 
