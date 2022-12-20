@@ -6,7 +6,7 @@
 
 [Поддержать](https://www.buymeacoffee.com/maxtrash)
 
-[Поддержать из Росии] (https://pay.cloudtips.ru/p/5acab2cd)
+[Поддержать из Росии](https://pay.cloudtips.ru/p/5acab2cd)
 
 
 <a href="https://www.youtube.com/c/MaxTrash" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCSFR40osj7pJXouSiJDFXZA" alt="YouTube channel" height="32" width="136"></a>
