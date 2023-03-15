@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: Privacy Policy
 permalink: /circle_catcher_privacy_policy/
 ---
 
 **Privacy Policy**
 
-Maksim Parkhomenko built the Circle catcher app as a Ad supported app. This SERVICE is provided by Maksim Parkhomenko at no cost and is intended for use as is.
+Maksim Parkhomenko built the Circle catcher as a Ad supported app. This SERVICE is provided by Maksim Parkhomenko at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
