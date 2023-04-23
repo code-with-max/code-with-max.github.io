@@ -26,9 +26,9 @@ minima:
     github:  trash-max
     facebook: max.trash.7
     twitter: Trash_Max
-    - platform: bmc
-      user_url: "https://www.buymeacoffee.com/maxtrash"
-      title:  Donate me
+    # - platform: bmc
+    #   user_url: "https://www.buymeacoffee.com/maxtrash"
+    #   title:  Donate me
     # devto: jekyll
     # dribbble: jekyll
     # flickr:   jekyll
