@@ -20,15 +20,15 @@ minima:
 
   # generate social links in footer
   social_links:
-   # linkedin: max-parkhomenko-55779037
+    linkedin: max-parkhomenko-55779037
     youtube_channel: UCSFR40osj7pJXouSiJDFXZA
     telegram: code_with_max
     github:  trash-max
     facebook: max.trash.7
     twitter: Trash_Max
-    - platform: bmc  # same as SVG filename.
-      user_url: "https://www.buymeacoffee.com/maxtrash"  # URL of profile page.
-      title:  Donate me  # Optional. Text displayed on hovering over link.
+    # - platform: bmc  # same as SVG filename.
+    #   user_url: "https://www.buymeacoffee.com/maxtrash"  # URL of profile page.
+    #   title:  Donate me  # Optional. Text displayed on hovering over link.
     # devto: jekyll
     # dribbble: jekyll
     # flickr:   jekyll
