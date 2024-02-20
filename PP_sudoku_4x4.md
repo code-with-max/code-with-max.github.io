@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: Sudoku 4x4 Privacy Policy
 permalink: /sudoku_4x4_privacy_policy/
 ---
 

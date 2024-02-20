@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sudoku 4x4 Privacy Policy
+title: Arrow of Love Privacy Policy
 permalink: /valentine_marathon_privacy_policy/
 ---
 
