@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Elements: alchemy game
-permalink: /elements-alchemy/
+title: Elements alchemy game
+permalink: /elements/
 ---
 
 ## Elements
@@ -19,3 +19,5 @@ Engage in challenging puzzles, witness stunning visual effects, and immerse your
 Become the wisest and most powerful alchemist of all time! Download the alchemy game now and embark on an exciting adventure where each new combination opens the doors to infinite possibilities!
 
 [Get it on Google Play Market](https://play.google.com/store/apps/details?id=one.allme.elements)
+
+[Privacy Policy](https://sites.google.com/view/elements-game/main-page/privacy-policy)
