@@ -25,7 +25,7 @@ minima:
     telegram: code_with_max
     github:  code-with-max
     facebook: max.trash.7
-    twitter: Trash_Max
+    # twitter: Trash_Max
     # - platform: bmc
     #   user_url: "https://www.buymeacoffee.com/maxtrash"
     #   title:  Donate me
@@ -63,6 +63,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - about.md
+ - elements-alchemy.md
 
 # Build settings
 theme: minima
