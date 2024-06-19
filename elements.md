@@ -4,9 +4,7 @@ title: Elements
 permalink: /elements/
 ---
 
-## Elements
-
-### Alchemy game
+#### Alchemy game
 
 Welcome to the captivating world of alchemy! In this thrilling game, you'll become a master alchemist, exploring and creating new combinations from various elements.
 
