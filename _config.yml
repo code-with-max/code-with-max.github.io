@@ -64,6 +64,7 @@ minima:
 header_pages:
  - about.md
  - elements.md
+ - circlecatcher.md
 
 # Build settings
 theme: minima

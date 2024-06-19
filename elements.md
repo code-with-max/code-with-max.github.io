@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements alchemy game
+title: Elements
 permalink: /elements/
 ---
 

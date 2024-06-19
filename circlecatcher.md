@@ -1,8 +1,7 @@
 ---
-layout: post
-title: "Circle catcher 2"
-categories: [Godot, Gamedev, Play Market]
-tag:        [godot, gamedev]
+layout: page
+title: Circle catcher 2
+permalink: /circlecatcher2/
 ---
 
 
@@ -12,15 +11,8 @@ tag:        [godot, gamedev]
 
 Simple game for test using API godot in app purchase and google admob
 
-Очень простая игра-кликер, сделал для тестирования API покупок в пр иложении и рекламы.
+Очень простая игра-кликер, сделал для тестирования API покупок в приложении и рекламы.
 
 
 <a href='https://play.google.com/store/apps/details?id=org.godotengine.circlecatcher&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
-
-[Patreon](https://patreon.com/codewithmax)
-
-Для поддержки из России:
-
-[Boosty](https://boosty.to/codewithmax)
-[CloudTips](https://pay.cloudtips.ru/p/5acab2cd)
