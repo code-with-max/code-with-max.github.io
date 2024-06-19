@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Elements
-permalink: /Infinite Gems/
+title: Infinite Gems
+permalink: /infinitegems/
 ---
-
-
-#### Infinite Gems
 
 [Infinite Gems](https://play.google.com/store/apps/details?id=org.godotengine.infinitegems)
 

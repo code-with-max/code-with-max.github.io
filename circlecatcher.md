@@ -4,9 +4,6 @@ title: Circle catcher 2
 permalink: /circlecatcher2/
 ---
 
-
-#### Circle catcher 2
-
 [Circle catcher 2](https://play.google.com/store/apps/details?id=org.godotengine.circlecatcher)
 
 Simple game for test using API godot in app purchase and google admob
