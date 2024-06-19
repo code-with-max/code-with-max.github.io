@@ -13,3 +13,5 @@ Simple game for test using API godot in app purchase and google admob
 
 [Circle catcher 2](https://play.google.com/store/apps/details?id=org.godotengine.circlecatcher)
 
+[Privacy Policy](https://blog.allme.one/circle_catcher_privacy_policy/)
+
