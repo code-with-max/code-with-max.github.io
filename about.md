@@ -9,7 +9,7 @@ permalink: /about/
 
 [Watch](https://www.youtube.com/c/MaxTrash)
 
-[Play](https://play.google.com/store/apps/developer?id=Max+Parkhomenko)
+[Play](https://play.google.com/store/apps/developer?id=Maksim+Parkhomenko)
 
 
 
